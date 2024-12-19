@@ -1,3 +1,4 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=jstaf/fly_tracker)
 fly_tracker
 ===========
 A set of MATLAB algorithms designed to track Drosophila and their larvae without requiring any kind of special hardware (even videos from cellphone cameras will work). The fly tracking algorithms are extremely resilient and are even able to function if the animal doesn't move through the entire video or gets obscured by glare (this would normally kill another tracking algorithm). Data QC and cleaing is performed automatically.
